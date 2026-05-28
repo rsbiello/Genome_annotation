@@ -1,6 +1,6 @@
 # Genome_annotation
 
-This repository contains example pipelines used for **genome annotation**, with a focus on two main steps:
+This repository contains example pipelines used for **genome annotation**, with a focus on three main steps:
 
 1. **Transposable element annotation**
 
