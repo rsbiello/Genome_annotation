@@ -54,15 +54,6 @@ set -euo pipefail
 #     sample01_1.fastq.gz
 #     sample01_2.fastq.gz
 #
-# Notes:
-#   - Cluster-specific paths should be avoided in GitHub examples.
-#   - Do not include personal usernames, organism-specific names,
-#     project directories, or institution-specific storage paths.
-#   - Users should replace the placeholder paths below with
-#     paths from their own system.
-#   - The SLURM partition name may vary across clusters.
-#     Edit or remove the --partition line if needed.
-#
 # ============================================================
 
 
